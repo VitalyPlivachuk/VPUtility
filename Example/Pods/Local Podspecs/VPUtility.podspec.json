@@ -1,0 +1,22 @@
+{
+  "name": "VPUtility",
+  "version": "0.1.0",
+  "summary": "A short description of VPUtility.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vitaly Plivachuk/VPUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vitaly Plivachuk": "vitaly.plivachuk@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Vitaly Plivachuk/VPUtility.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VPUtility/Classes/**/*"
+}

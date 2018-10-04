@@ -1,0 +1,6 @@
+framework module VPUtility {
+  umbrella header "VPUtility-umbrella.h"
+
+  export *
+  module * { export * }
+}

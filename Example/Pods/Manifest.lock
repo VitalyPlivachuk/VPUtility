@@ -1,0 +1,16 @@
+PODS:
+  - VPUtility (0.1.0)
+
+DEPENDENCIES:
+  - VPUtility (from `../`)
+
+EXTERNAL SOURCES:
+  VPUtility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VPUtility: 0b30f7592531729130086992b77b4cc51fce8dc3
+
+PODFILE CHECKSUM: c9bbb52d06d4bb302e374ae19a3c7b42c343bb92
+
+COCOAPODS: 1.5.3
