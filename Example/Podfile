@@ -1,0 +1,6 @@
+use_frameworks!
+target 'VPUtility_Tests' do
+  pod 'VPUtility', :path => '../'
+  
+  
+end
